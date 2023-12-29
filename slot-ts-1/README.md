@@ -16,12 +16,13 @@ Make sure you have the following installed on your system:
 
 Installation
 1. Clone the repository:
-   git clone https://github.com/your-username/slot-machine-game.git
+   git clone https://github.com/JuanC3719/type-slot/
 
 2. Change into the project directory:
-   cd slot-machine-game
+   cd type-slot
+   cd slot-ts-1
 
-3. Install dependencies:
+4. Install dependencies:
    npm install
 
 Usage
