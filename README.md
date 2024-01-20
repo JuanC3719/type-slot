@@ -1,6 +1,7 @@
 # Slot Machine Game
 
 Slot Machine Game is a web-based slot machine game developed using TypeScript, React, and CSS. Enjoy the thrill of spinning the reels and testing your luck with various symbol combinations.
+Live Demo Link: https://main.dg3su79f7kv8i.amplifyapp.com/
 
 Features
 - Exciting slot machine gameplay
